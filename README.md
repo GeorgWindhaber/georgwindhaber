@@ -23,3 +23,4 @@ I mostly use Vue to create frontends but am also dipping more and into the full-
 
 I also do UI/UX designing in Adobe XD but not here on github.
 
+If you have any questions, job offerings or anything else you want to write me, you can do this under <georg.windhaber@gmail.com> 😄
