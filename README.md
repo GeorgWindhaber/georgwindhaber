@@ -20,5 +20,3 @@ I am Georg Windhaber, a mostly frontend dev living the full javascript life!
 I mostly use Vue to create frontends but am also dipping more and into the full-stack with Express and JSON based storages like MongoDB. Anything that is state of the art and has cool flexible features with a clean look excites me.
 
 I also do UI/UX designing in Adobe XD but not here on github.
-
-If you have any questions, job offerings or anything else you want to write me, you can do this under <georg.windhaber@gmail.com> 😄
