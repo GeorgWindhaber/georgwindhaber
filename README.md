@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi!
 
-I am Georg Windhaber, a mostly frontend dev living the full javascript life!
+I am Georg Windhaber, a mostly frontend dev living the full ~~javascript~~ typescript life!
 
-I mostly use Vue to create frontends but am also dipping more and into the full-stack with Express and JSON based storages like MongoDB. Anything that is state of the art and has cool flexible features with a clean look excites me.
+I mostly use Vue/Nuxt and React/Next to create frontends but am also dipping more and into the full-stack with Next.js. Anything that is state of the art and has cool flexible features with a clean look excites me.
 
-I also do UI/UX designing in Adobe XD but not here on github.
+I also do UI/UX designing but not here on github.
