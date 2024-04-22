@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am Georg Windhaber, a mostly frontend dev living the full ~~javascript~~ typescript life!
 
-I mostly use Vue/Nuxt and React/Next to create frontends but am also dipping more and into the full-stack with Next.js. Anything that is state of the art and has cool flexible features with a clean look excites me.
+I mostly use Vue/Nuxt and React/Next to create fun web experiences. Anything that is state of the art and has cool flexible features with a clean look excites me.
 
 I also do UI/UX designing but not here on github.
